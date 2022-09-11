@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 Coming soon! <br> For now, you can see my unpublished reports on [Researchgate](https://www.researchgate.net/profile/Vinicius-Jameli), and the data for each project on my [GitHub](https://github.com/Vjameli)
-
+  
 
 
 # {% if author.googlescholar %}
