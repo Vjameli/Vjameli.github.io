@@ -4,6 +4,7 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-Computer Science department, Princeton University<br>
-Princeton, New Jersey<br>
-Email: asd [at] cs [dot] princeton [dot] edu
+Institute of Mathematics, Statistics and Scientific Computing, Unicamp<br>
+Campinas, São Paulo - Brazil<br>
+Academic email: v225414 [at] dac [dot] unicamp [dot] br
+Personal email: vjameli [at] gmail [dot] com
