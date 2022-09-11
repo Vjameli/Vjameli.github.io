@@ -5,10 +5,13 @@ permalink: /research/
 author_profile: true
 ---
 
-<h2> Radiotherapy planning </h2>
-Radiotherapy consist in the usage of radiation to shrink or extinguish tumors. Commonly, this radiation comes from a machine called linear accelerator; a huge instrument that rotates around the patient, who is lying down on the treatment couch, and deliver the radiation dose from any feasible angle.
+<h1> Radiotherapy planning </h1>
 
-One possible way of seeing medical physicists' duty during the planning phase of the treatment is to *optimize* the radiation dose that is being irradiated on the patient, in order to *minimize* the total ammount of dose, subject to the prescriptions
+<h3>From the beginning!<h3>
+When a patient is referred to [radiotherapy](https://en.wikipedia.org/wiki/Radiation_therapy), is commonly ordered a [tomography](https://en.wikipedia.org/wiki/Tomography) (or sometimes an [MRI](https://en.wikipedia.org/wiki/Magnetic_resonance_imaging) before the proper treatment in order to obtain more information about the tumour position and geometry.
+
+With the t
+
 
 There are numerous other approaches
 
