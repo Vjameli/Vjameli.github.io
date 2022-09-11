@@ -31,7 +31,7 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : "dark" # "light" (default), "dark"
 staticman:
-  allowedFields          : ['name', 'email', 'url', 'message']
+  allowedFields          : ['Vinicius Jameli', 'vjameli@gmail.com', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
