@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-- I a 22 years old undegraduate applied mathematician student at [IMECC](https://www.ime.unicamp.br) - [Unicamp](https://www.unicamp.br/unicamp/).
+- I am a 22-year-old undegraduate applied mathematician student at [IMECC](https://www.ime.unicamp.br) - [Unicamp](https://www.unicamp.br/unicamp/).
 - My research interests broadly cover optimization, operation research, numerical analylis and radiotherapy.
 - Currently, my endeavors lies on the radiotherapy planning problem.

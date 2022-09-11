@@ -6,5 +6,5 @@ author_profile: true
 ---
 Institute of Mathematics, Statistics and Scientific Computing, Unicamp<br>
 Campinas, São Paulo - Brazil<br>
-Academic email: v225414 [at] dac [dot] unicamp [dot] br
+Academic email: v225414 [at] dac [dot] unicamp [dot] br<br>
 Personal email: vjameli [at] gmail [dot] com

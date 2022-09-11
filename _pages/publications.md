@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Coming soon! <br> For now, you can see my unpublished reports on [Researchgate](https://www.researchgate.net/profile/Vinicius-Jameli), and the respective data and routines on [GitHub](https://github.com/Vjameli)
+Coming soon! <br> For now, you can see my unpublished reports on [Researchgate](https://www.researchgate.net/profile/Vinicius-Jameli), and the respective data and routines on [GitHub].(https://github.com/Vjameli)
 
 
 <!---
