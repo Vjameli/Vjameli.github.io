@@ -12,4 +12,7 @@ redirect_from:
 
 - I am a 22-year-old undegraduate applied mathematician student at [IMECC](https://www.ime.unicamp.br) - [Unicamp](https://www.unicamp.br/unicamp/).
 - My research interests broadly cover optimization, operation research, numerical analylis and radiotherapy.
-- Currently, my endeavors lies on improving and automating treatment planning for radiothearpy. Quoted from Sebastiaan Breedveld: *Each patient should receive the best treatment technically possible: not the best we could achieve.*
+- Currently, my endeavors lies on improving and automating treatment planning for radiothearpy.
+Quoted from Sebastiaan Breedveld: 
+
+<q> *Each patient should receive the best treatment technically possible: not the best we could achieve.* </q>
