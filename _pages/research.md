@@ -3,12 +3,12 @@ layout: archive
 title: ""
 permalink: /research/
 author_profile: true
----
+--- 
 
 <h1> Radiotherapy planning </h1>
 
 
-<h3>First of all: what is *radiotherapy*?</h3>
+<h3>First of all: what is <i>radiotherapy</i>? </h3>
 
 Given the premise that some types of radiation can cause more damage to the DNA of tumor cells than healthy ones, [radiotherapy](https://en.wikipedia.org/wiki/Radiation_therapy) comprises the usage of radiation to extinguish or shrink tumors, where the goal is to eliminate the tumor before causing more damage to the patient.
 
@@ -43,16 +43,19 @@ For that purpose, recent linear accelerators inclue a *multileaf collimator* (ML
 
 Finally, with the [DICOM](https://en.wikipedia.org/wiki/DICOM) data from the CT scan, and the dose prescriptions, is now duty of the team of *medical physicists* to dictate how the linear accelerator; together with the MLC; are supposed to work in order to deliver the radiation dose to the patient. And this is what is known as radiotherapy planning!
 
-<h3>Okay, but where optimization comes in?</h3>
+<h3>Okay, but where the optimization comes in?</h3>
 
-The planning phase always want to **optimize** the dose distribution on the patient!
-One way of approaching the *dose delivery problem* is to **minimize** the total dose delivered to the patient, **subject** to the dose prescriptions given by the oncologist!
+One way of interpreting the *dose delivery problem* is to **minimize** the total dose delivered to the patient, **subject to** the dose prescriptions given by the oncologist.
 
-This is often achieved by discretizing the patient organs into voxels using a 3D-reconstruction of the CT scan data (that is why the DICOM files are so important in the planning phase!) and analysing the dose in every patient's voxel!
+In other words, the planning phase always want to **optimize** the dose distribution on the patient. Which is, of course, what this is all about: optimization!
+
+The main approach for most of the optimization problems related with radiotherapy planing is to discretize the patient's organs into voxels using a "3D-reconstruction" of the CT scan data (that is why the DICOM files are so important in the planning phase!) and analyse the dose in every patient's voxel!
 
 For a deeper, but still beginner-friendly explanation about the topic, I highly recommend the first sections of my report ["Optimization of external beam radiation therapy"](https://www.researchgate.net/publication/362482036_Optimization_of_external_beam_radiation_therapy). I hope you enjoy it :v
 
+<img src="DICOM_liver_moderate_avearge" alt="" width="632" height="462">
 
+**Obs:** *the 3D-reconstruction it is not actually calculated. However, it is the first step for understanding what is called "pencil-beam matrix", or "dose deposition matrix"*.
 
 <h2> Publications and conference papers </h2>
 
