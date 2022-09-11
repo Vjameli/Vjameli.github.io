@@ -15,4 +15,4 @@ redirect_from:
 - Currently, my endeavors lies on improving and automating treatment planning for radiothearpy.
 Quoted from Sebastiaan Breedveld: 
 
-<q> *Each patient should receive the best treatment technically possible: not the best we could achieve.* </q>
+<q> Each patient should receive the best treatment technically possible: not the best we could achieve.</q>
