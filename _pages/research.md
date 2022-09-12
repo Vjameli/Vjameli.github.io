@@ -24,7 +24,7 @@ Once a patient is diagnosed with cancer and referred to radiotherapy treatment, 
 
 <div style="text-align: center;">
   <img src="/images/slices.png" alt="" width="468" height="279">
-  <small>Image taken from the website https://www.mayoclinic.org/tests-procedures/ct-scan/multimedia/ct-scan-slices/img-20008348<small>
+  <br> <small>Image taken from the website https://www.mayoclinic.org/tests-procedures/ct-scan/multimedia/ct-scan-slices/img-20008348</small>
 </div>
 
 While regular doctors prescribe ordinary medicine, oncologists can prescribe radiation dose! Cool, isn't it?
