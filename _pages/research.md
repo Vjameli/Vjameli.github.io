@@ -10,7 +10,7 @@ author_profile: true
 <hr>
 
 
-<h3>First of all: what is <i>radiotherapy</i>? </h3>
+<h3><u>First of all: what is <i>radiotherapy</i>?</u> </h3>
 
 Given the premise that some types of radiation can cause more damage to the DNA of tumor cells than healthy ones, [radiotherapy](https://en.wikipedia.org/wiki/Radiation_therapy) comprises the usage of radiation to extinguish or shrink tumors, where the goal is to eliminate the tumor before causing more damage to the patient.
 
@@ -44,7 +44,7 @@ This is where engineers and physicists can be pround of themselves: they created
 
 <h3><u>The MLC</u></h3>
 
-Nevertheless, quoted from uncle Ben: "*With great power comes great responsibility!*".
+Nevertheless, as uncle Ben would say: "*With great power comes great responsibility!*".
 
 One of the main objectives in radiotherapy is to aim the radiation at the tumor, and not the healthy organs of the patient. For that purpose, recent linear accelerators include a multi-leaf collimator (MLC). A set of collimating blades that can change the shape of the radiation field during the treatment, adjusting the aperture at each treatment angle as much as possible to the tumor’s contour.
 
