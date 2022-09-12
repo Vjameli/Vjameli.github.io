@@ -7,6 +7,8 @@ author_profile: true
 
 <h1> Radiotherapy planning </h1>
 
+<hr>
+
 
 <h3>First of all: what is <i>radiotherapy</i>? </h3>
 
@@ -14,7 +16,9 @@ Given the premise that some types of radiation can cause more damage to the DNA 
 
 In a nutshell: 
 
-<q> *Radiotherapy is the art of treating cancer with something known to cause cancer!* </q>
+<div style="text-align: center;">
+  <q> *Radiotherapy is the art of treating cancer with something that may cause cancer!* </q>
+</div>
 
 Got curious? Check out the next paragraphs to understand how exactly it is possible to accomplish this ambitious goal!
 
@@ -46,7 +50,7 @@ One of the main objectives in radiotherapy is to aim the radiation at the tumor,
 For that purpose, recent linear accelerators inclue a *multileaf collimator* (MLC). A set of collimating blades, that is able to change the shape of the radiation field during the treatment; adjusting the apperture at each treatment angle as much close as possible to the tumor's contour.
 
 <div style="text-align: center;">
-  <img src="/images/linac.gif" alt="" width="1200" height="675">
+  <img src="/images/linac.gif" alt="" width="960" height="540">
 </div>
 
 
