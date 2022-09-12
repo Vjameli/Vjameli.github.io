@@ -12,13 +12,20 @@ author_profile: true
 
 Given the premise that some types of radiation can cause more damage to the DNA of tumor cells than healthy ones, [radiotherapy](https://en.wikipedia.org/wiki/Radiation_therapy) comprises the usage of radiation to extinguish or shrink tumors, where the goal is to eliminate the tumor before causing more damage to the patient.
 
-In a nutshell: <q> Radiotherapy is the art of treating cancer with something known to cause cancer! </q>
+In a nutshell: 
+
+<q> *Radiotherapy is the art of treating cancer with something known to cause cancer!* </q>
 
 Got curious? Check out the next paragraphs to understand how exactly it is possible to accomplish this ambitious goal!
 
 <h3>From the beginning!</h3>
 
 Once a patient is diagnosed with cancer and referred to radiotherapy treatment, the oncologist physician commonly orders a [tomography](https://en.wikipedia.org/wiki/Tomography) (or sometimes a [MRI](https://en.wikipedia.org/wiki/Magnetic_resonance_imaging)) of the patient before the proper treatment in order to obtain more information about the tumour's position and geometry (you will see the importance of this data very soon!).
+
+<div style="text-align: center;">
+  <img src="/images/slices.png" alt="" width="468" height="279">
+  <small>Image taken from the website https://www.mayoclinic.org/tests-procedures/ct-scan/multimedia/ct-scan-slices/img-20008348<small>
+</div>
 
 While regular doctors prescribe ordinary medicine, oncologists can prescribe radiation dose! Cool, isn't it?
 
