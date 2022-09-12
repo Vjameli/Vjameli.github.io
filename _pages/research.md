@@ -45,6 +45,10 @@ Nevertheless, "*With great power comes great responsibility!*".
 One of the main objectives in radiotherapy is to aim the radiation at the tumor, and not the healthy organs of the patient.
 For that purpose, recent linear accelerators inclue a *multileaf collimator* (MLC). A set of collimating blades, that is able to change the shape of the radiation field during the treatment; adjusting the apperture at each treatment angle as much close as possible to the tumor's contour.
 
+<div style="text-align: center;">
+  <img src="/images/linac.gif" alt="" width="1200" height="675">
+</div>
+
 
 <h3>Planning phase</h3>
 
