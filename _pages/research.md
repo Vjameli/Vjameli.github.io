@@ -22,7 +22,9 @@ In a nutshell:
 
 Got curious? Check out the next paragraphs to understand how it is possible to accomplish this ambitious goal!
 
-<h3>From the beginning!</h3>
+<hr>
+
+<h3> <u>From the beginning!</u></h3>
 
 Once a patient is diagnosed with cancer and referred to radiotherapy treatment, the oncologist physician commonly orders a [tomography](https://en.wikipedia.org/wiki/Tomography) (or sometimes a [MRI](https://en.wikipedia.org/wiki/Magnetic_resonance_imaging)) of the patient before the proper treatment to get more information about the tumour’s position and geometry (you will see the importance of this data soon!).
 
@@ -35,12 +37,12 @@ While regular doctors prescribe ordinary medicine, oncologists can prescribe rad
 
 Using the CT scans, the oncologist doctor can prescribe radiation dose, measured in [Gray](https://en.wikipedia.org/wiki/Gray_(unit)), for each structure involved in the treatment.
 
-<h3>Linear accelerator</h3>
+<h3><u>Linear accelerator</u></h3>
 
 At this point, you may ask yourself "How exactly doctors can throw radiation onto patinents?", or "Where this radiation comes from?"
 This is where engineers and physicists can be pround of themselves: they created the *linear accelerator*! An enormous machine that can make a complete loop around the patient, delivering radiation from any angle very precisely!
 
-<h3>The MLC</h3>
+<h3><u>The MLC</u></h3>
 
 Nevertheless, quoted from uncle Ben: "*With great power comes great responsibility!*".
 
@@ -51,11 +53,11 @@ One of the main objectives in radiotherapy is to aim the radiation at the tumor,
 </div>
 
 
-<h3>Planning phase</h3>
+<h3><u>Planning phase</u></h3>
 
 Finally, with the [DICOM](https://en.wikipedia.org/wiki/DICOM) data from the CT scan and the dose prescriptions, it is time for the team of medical physicists to decide how the linear accelerator; together with the MLC; are supposed to work to deliver the radiation dose to the patient. And this is what is known as radiotherapy planning!
 
-<h3>Okay, but where the optimization comes in?</h3>
+<h3><u>Okay, but where the optimization comes in?</u></h3>
 
 One way of interpreting the *dose delivery problem* is to **minimize** the total dose delivered to the patient, **subject to** the dose prescriptions given by the oncologist. In other words, the planning phase always want to **optimize** the dose distribution on the patient. Which is, of course, what this is all about: optimization!
 
