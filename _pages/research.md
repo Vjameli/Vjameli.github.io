@@ -65,7 +65,7 @@ The main approach for most of the optimization problems related with radiotherap
 
 <div style="text-align: center;">
   <img src="/images/dicom.gif" alt="" width="1200" height="629">
-  <br> <small>This is a loop through the tomographic slices of the patient with the dose plotted on top. </small>
+  <br> <small>This is a loop through the tomographic slices of the patient with the resultant radiation dose plotted on top. </small>
 </div>
 
 Ultimatelly, for a deeper, but still beginner-friendly explanation about the topic, I highly recommend the first sections of my report ["Optimization of external beam radiation therapy"](https://www.researchgate.net/publication/362482036_Optimization_of_external_beam_radiation_therapy).
