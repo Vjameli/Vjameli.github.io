@@ -61,7 +61,7 @@ Finally, with the [DICOM](https://en.wikipedia.org/wiki/DICOM) data from the CT 
 
 One way of interpreting the *dose delivery problem* is to **minimize** the total dose delivered to the patient, **subject to** the dose prescriptions given by the oncologist. In other words, the planning phase always want to **optimize** the dose distribution on the patient. Which is, of course, what this is all about: optimization!
 
-The main approach for most of the optimization problems related with radiotherapy planning is to discretize the patient’s organs into voxels using a “3D-reconstruction” of the CT scan data (that is why the DICOM files are so important in the planning phase!) and optimize the dose in every patient’s voxel! The final product of the treatment plan must be a prediction of the resultant radiation dose deposited on the patient after the treatment session. For our luck, this solution can be visualized in a very nice way:
+The main approach for most of the optimization problems related with radiotherapy planning is to discretize the patient’s organs into voxels using a “3D-reconstruction” of the CT scan data (that is why the DICOM files are so important in the planning phase!) and optimize the dose in every patient’s voxel! The final product of the treatment plan must be a suggestion of the resultant radiation dose deposited on the patient after the treatment session. For our luck, this solution can be visualized in a very nice way:
 
 <div style="text-align: center;">
   <img src="/images/dicom.gif" alt="" width="1200" height="629">
