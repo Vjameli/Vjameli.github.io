@@ -53,7 +53,7 @@ The main approach for most of the optimization problems related with radiotherap
 
 For a deeper, but still beginner-friendly explanation about the topic, I highly recommend the first sections of my report ["Optimization of external beam radiation therapy"](https://www.researchgate.net/publication/362482036_Optimization_of_external_beam_radiation_therapy). I hope you enjoy it :v
 
-<img src="DICOM_liver_moderate_avearge" alt="" width="632" height="462">
+<img src="DICOM_liver_moderate_avearge.png" alt="" width="632" height="462">
 
 **Obs:** *the 3D-reconstruction it is not actually calculated. However, it is the first step for understanding what is called "pencil-beam matrix", or "dose deposition matrix"*.
 
