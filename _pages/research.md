@@ -17,7 +17,7 @@ Given the premise that some types of radiation can cause more damage to the DNA 
 In a nutshell: 
 
 <div style="text-align: center;">
-  <q> <i>Radiotherapy is the art of treating cancer with something that may cause cancer!</i> </q>
+  <q><i>Radiotherapy is the art of treating cancer with something that may cause cancer!</i></q>
 </div>
 
 Got curious? Check out the next paragraphs to understand how it is possible to accomplish this ambitious goal!
@@ -62,7 +62,7 @@ One way of interpreting the *dose delivery problem* is to **minimize** the total
 The main approach for most of the optimization problems related with radiotherapy planning is to discretize the patient’s organs into voxels using a “3D-reconstruction” of the CT scan data (that is why the DICOM files are so important in the planning phase!) and optimize the dose in every patient’s voxel! The final product of the treatment plan must be a prediction of the resultant radiation dose deposited on the patient after the treatment session. For our luck, this solution can be visualized in a very nice way:
 
 <div style="text-align: center;">
-  <img src="/images/dicom.gif" alt="" width="768" height="432">
+  <img src="/images/dicom.gif" alt="" width="960" height="503">
   <br> <small>This is a loop through the tomographic slices of the patient with the dose plotted on top. </small>
 </div>
 
@@ -73,14 +73,9 @@ Ultimatelly, for a deeper, but still beginner-friendly explanation about the top
 
 <hr>
 
-Congratulations for reading this far! I am glad I managed to catch your attention talking about radiotherapy :v
-Feel free to send me an email if you have any questions :)
+Congratulations for reading this far! I am glad I managed to catch your attention talking about radiotherapy. Feel free to send me an email if you have any questions :)
 
 Farewell!
-
-<h2> Publications and conference papers </h2>
-
-You can find both in my [Researchgate](https://www.researchgate.net/profile/Vinicius-Jameli) profile, and their respectives routines and data in my [GitHub](https://github.com/Vjameli).
 
 <!---
  {% if author.googlescholar %}
