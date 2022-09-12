@@ -17,7 +17,7 @@ Given the premise that some types of radiation can cause more damage to the DNA 
 In a nutshell: 
 
 <div style="text-align: center;">
-  <q> <i>Radiotherapy is the art of treating cancer with something that may cause cancer!*</i> </q>
+  <q> <i>Radiotherapy is the art of treating cancer with something that may cause cancer!</i> </q>
 </div>
 
 Got curious? Check out the next paragraphs to understand how it is possible to accomplish this ambitious goal!
@@ -71,8 +71,9 @@ Ultimatelly, for a deeper, but still beginner-friendly explanation about the top
 
 **Obs:** *the 3D-reconstruction it is not actually calculated. However, it is the first step for understanding what is called "pencil-beam matrix", or "dose deposition matrix"*.
 
-Congratulations for reading this far! I am glad I managed to catch your attention talking about radiotherapy :v
+<hr>
 
+Congratulations for reading this far! I am glad I managed to catch your attention talking about radiotherapy :v
 Feel free to send me an email if you have any questions :)
 
 Farewell!
