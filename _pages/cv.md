@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Click [<span style="color:blue">here</span>]() to view my up-to-date CV
+Click [<span style="color:blue">here</span>](https://Vjameli.github.io/files/CV.pdf) to view my up-to-date CV
