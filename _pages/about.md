@@ -18,4 +18,6 @@ Quoting the motto from Sebastiaan Breedveld:
   <q> <i>Each patient should receive the best treatment technically possible: not the best we could achieve.</i></q>
 </div>
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=190&t=n&d=jly5PbL24qrN6G0jQChKIjqNHiRrn7DuWSqT36LFAVA'></script>
+<br>
+
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=230&t=n&d=jly5PbL24qrN6G0jQChKIjqNHiRrn7DuWSqT36LFAVA"></script>
