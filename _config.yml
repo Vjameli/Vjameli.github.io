@@ -86,9 +86,9 @@ author:
   location         : "Americana, SP - Brazil"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com.br/citations?user=hEnX4vUAAAAJ&hl=en-US"
   email            : "vjameli@gmail.com"
-  researchgate     :  "https://www.researchgate.net/profile/Vinicius-Jameli"
+  researchgate     : "https://www.researchgate.net/profile/Vinicius-Jameli"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   impactstory      : 
   lastfm           :
   linkedin         : "jameli"
-  orcid            : 
+  orcid            : "https://orcid.org/0000-0002-9962-8273"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
