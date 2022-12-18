@@ -19,5 +19,3 @@ Quoting the motto from Sebastiaan Breedveld:
 </div>
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=jly5PbL24qrN6G0jQChKIjqNHiRrn7DuWSqT36LFAVA&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
-
-testing ssh
