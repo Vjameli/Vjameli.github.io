@@ -34,4 +34,4 @@ To quote Sebastiaan Breedveld:
   Accesses to this website in the last thirty days:
 </div>
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=jly5PbL24qrN6G0jQChKIjqNHiRrn7DuWSqT36LFAVA"></script>
+<a href='https://clustrmaps.com/site/1brzo'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=tt&d=jly5PbL24qrN6G0jQChKIjqNHiRrn7DuWSqT36LFAVA'/></a>
