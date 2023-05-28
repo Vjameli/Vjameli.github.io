@@ -77,8 +77,6 @@ Ultimately, for a deeper, but still beginner-friendly explanation about the topi
 
 Congratulations for reading this far! I am glad I managed to catch your attention talking about radiotherapy. Feel free to send me an email if you have any questions :)
 
-Farewell!
-
 <!---
  {% if author.googlescholar %}
    You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
