@@ -10,7 +10,7 @@ redirect_from:
 
 
 - I am a 23-year-old undergraduate in applied mathematics at [IMECC](https://www.ime.unicamp.br) - [Unicamp](https://www.unicamp.br/unicamp/).
-- My research interests broadly optimization, operations research, matrix computations and radiotherapy.
+- My research interests broadly optimization, operation research, matrix computations and radiotherapy.
 - Currently, I endeavor to improve and automate treatment planning for radiotherapy.
 To quote Sebastiaan Breedveld:
 
