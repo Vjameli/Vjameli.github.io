@@ -17,7 +17,7 @@ Given the premise that certain types of radiation can deal more harm to tumor ce
 In a nutshell: 
 
 <div style="text-align: center;">
-  <q><i>Radiotherapy is the art of treating cancer with something that may cause cancer!</i></q>
+  <q><i>Radiotherapy is the art of treating cancer with something that may cause cancer</i></q>
 </div>
 
 
