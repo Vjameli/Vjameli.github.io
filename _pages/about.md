@@ -48,9 +48,6 @@ To quote Sebastiaan Breedveld:
 
 - **April 2022:** ✈️ Presenting at the EncBioMat meeting in Rio.
 
-
-
-
 <br>
 
 <br>
