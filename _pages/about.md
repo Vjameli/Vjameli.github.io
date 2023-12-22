@@ -22,6 +22,8 @@ To quote Sebastiaan Breedveld:
 
 # **News**
 
+- **December 2023:** 📚 I'm going to start a direct PhD at the University of Toronto, supervised by prof. [Timothy](https://chan.mie.utoronto.ca/)! See you in Canada!
+
 - **September 2023:** 🏆 I received a national award from [SBMAC](https://www.sbmac.org.br/premio-iniciacao-cientifica/) for 2nd-best undergrad research project in applied math!
 
 - **August 2023:** 🎙️ Scored 29/30 in TOEFL speaking section.
