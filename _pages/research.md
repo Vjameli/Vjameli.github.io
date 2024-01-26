@@ -12,7 +12,7 @@ author_profile: true
 
 <h3><u>First of all: what is <i>radiotherapy</i>?</u> </h3>
 
-Given the premise that certain types of radiation can deal more harm to tumor cell DNA than to their healthy counterparts, [radiotherapy](https://en.wikipedia.org/wiki/Radiation_therapy) comprises the use of radiation such as photons, electron beams, or protons, to extinguish or shrink tumors while spare healthy organs as much as possible.
+Given the premise that certain types of radiation can deal more damage to the DNA of tumor cells than to their healthy counterparts, [radiotherapy](https://en.wikipedia.org/wiki/Radiation_therapy) comprises the use of radiation, such as photons, electron beams, or protons, to extinguish or shrink tumors while sparing healthy organs as much as possible.
 
 In a nutshell: 
 
@@ -26,7 +26,7 @@ In a nutshell:
 
 <h3> <u>From the beginning</u></h3>
 
-Once a patient is diagnosed with cancer and referred to radiotherapy treatment, the oncologist often requisitions a [tomography](https://en.wikipedia.org/wiki/Tomography) or occasionally an [MRI](https://en.wikipedia.org/wiki/Magnetic_resonance_imaging). These diagnostic tools provide crucial insights into the tumor's position and geometry before commencing treatment.
+Once a patient is diagnosed with cancer and referred to radiotherapy treatment, the oncologist often orders a [CT scan] of the patient (https://en.wikipedia.org/wiki/CT_scan) or occasionally an [MRI](https://en.wikipedia.org/wiki/Magnetic_resonance_imaging). These diagnostic tools provide crucial insights into the tumor's position and geometry.
 
 <div style="text-align: center;">
   <img src="/images/slices.png" alt="" width="468" height="279">
@@ -34,16 +34,17 @@ Once a patient is diagnosed with cancer and referred to radiotherapy treatment, 
 </div>
 
 
-By utilizing CT scans, the oncologist can prescribe a radiation dose, measured in Gray, for each structure that's a part of the treatment.
+With the CT scan in hand, the oncologist can now prescribe a radiation dose, measured in Gray, for each organ involved in the treatment. For the tumors, the doctor would like to deliver **at least** some amount of dose, while for the critial organs around the tumor, the doctor would like to deliver **at most** some amount of dose.
+
 <h3><u>Linear Accelerator</u></h3>
 
-At this juncture, you might wonder, 'How do medical experts manipulate radiation and incorporate it into patients?' or 'What's the source of this radiation?'
-This is where the genius of engineers and physicists shines: they've crafted the linear accelerator, an enormous apparatus capable of circumnavigating the patient, skillfully delivering radiation from various angles.
+At this point, you might wonder, "But how exactly can they deliver this radiation to the patient?" or "Where does this radiation come from?"
+Here is where the engineers and physicists can be proud: they've created the [linear acelerator](https://en.wikipedia.org/wiki/Linear_particle_accelerator)! This is an enormous apparatus capable of circumnavigating the patient, delivering radiation from various angles.
 <h3><u>The MLC</u></h3>
 
-Nevertheless, as uncle Ben would say: "With great power comes great responsibility."
+Nevertheless, as Uncle Ben would say: "With great power comes great responsibility."
 
-In radiotherapy, the ultimate goal is to direct radiation precisely at the tumor while sparing the patient's healthy organs. To fulfill this mission, modern linear accelerators feature a multi-leaf collimator (MLC) – an assembly of collimating blades that dynamically shape the radiation field during treatment, allowing several non-trivial apertures per angle."
+In radiotherapy, the ultimate goal is to direct radiation precisely at the tumor while sparing the patient's healthy organs.To accomplish this, modern linear accelerators feature a multi-leaf collimator (MLC) – an assembly of collimating blades that dynamically shape the radiation field during treatment, allowing several non-trivial shapes per angle."
 
 <div style="text-align: center;">
   <img src="/images/linac.gif" alt="" width="768" height="432">
@@ -52,20 +53,20 @@ In radiotherapy, the ultimate goal is to direct radiation precisely at the tumor
 
 <h3><u>Planning phase</u></h3>
 
-Finally, with the [DICOM](https://en.wikipedia.org/wiki/DICOM) data from the CT scan and the prescribed radiation doses, the team of medical physicists embarks on the task of orchestrating the synergy between the linear accelerator and the MLC to precisely deliver the required radiation dose to the patient. This intricate orchestration is what's known as radiotherapy planning.
+Finally, with the [DICOM](https://en.wikipedia.org/wiki/DICOM) data from the CT scan and the prescribed radiation doses, the team of medical physicists has now to orchestrate the synergy between the linear accelerator and the MLC to deliver the required dose to the patient. This, ladies and gentlemen, is what's known as radiotherapy planning. 
 
 <h3><u>Okay, but where does the optimization come in?</u></h3>
 
-One way of interpreting the *dose delivery problem* is to **minimize** the total dose delivered to the patient, **subject to** the dose prescriptions given by the oncologist. In other words, the planning phase always wants to **optimize** the dose distribution on the patient. Which is, of course, what this is all about: optimization!
+One way of interpreting the *dose delivery problem* is to **minimize** the total dose delivered to the patient, **subject to** the dose prescriptions given by the oncologist. In other words, the planning phase always wants to **optimize** the dose distribution throughout the patient. Which is, of course, what this is all about: optimization!
 
-The prevalent approach for most optimization problems pertaining to radiotherapy planning involves discretizing the patient's organs into voxels through a "3D reconstruction" of CT scan data (which is why DICOM files wield such significance in this phase) and optimize the dose in every patient’s voxel. The treatment's outcome is a tailored suggestion for the radiation dose distribution that will be deposited in the patient's body post-treatment. For our luck, this solution can be visualized in a very nice way:
+The prevalent approach for most optimization problems in radiotherapy planning involves discretizing the patient's organs into voxels through a "3D reconstruction" of the CT scan data and optimize the dose in every patient’s voxel. The planning's outcome is a tailored suggestion for the radiation dose distribution that will be deposited in the patient's body within the limitations of the linear accelerator. For our luck, this solution can be visualized in a very nice way:
 
 <div style="text-align: center;">
   <img src="/images/dicom.gif" alt="" width="1200" height="629">
   <br> <small>This is a loop through the tomographic slices of the patient with the resultant radiation dose plotted on top.</small>
 </div>
 
-In closing, for a more in-depth yet still beginner-friendly dive into this subject, I highly recommend the initial sections of my report ["Primal-dual interior point algorithm for the fluence map optimization problem"](https://www.researchgate.net/publication/361526900_Primal-dual_interior_point_algorithm_for_the_fluence_map_optimization_problem).
+In closing, for a more in-depth yet still beginner-friendly introduction to this subject, I highly recommend the initial sections of my report ["Primal-dual interior point algorithm for the fluence map optimization problem"](https://www.researchgate.net/publication/361526900_Primal-dual_interior_point_algorithm_for_the_fluence_map_optimization_problem).
 
 
 <hr>
