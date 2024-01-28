@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 
-- I am a 23-year-old undergraduate finishing my major in applied mathematics at [IMECC](https://www.ime.unicamp.br) - [Unicamp](https://www.unicamp.br/unicamp/).
-- My research interests cover optimization, operation research, matrix computations, and radiotherapy planning.
+- I am a 23-year-old undergraduate finishing my major in applied mathematics at [IMECC](https://www.ime.unicamp.br) - [Unicamp](https://www.unicamp.br/unicamp/)
+- My research interests include optimization, operation research, matrix computations, and radiotherapy planning.
 - Currently, I endeavor to improve and automate treatment planning for external beam radiotherapy.
 To quote Sebastiaan Breedveld:
 
@@ -22,11 +22,11 @@ To quote Sebastiaan Breedveld:
 
 # **News**
 
-- **December 2023:** 📚 I'm going to start a direct PhD at the University of Toronto supervised by Prof. [Timothy](https://chan.mie.utoronto.ca/)! See you in Canada!
+- **December 2023:** 📚 I'm going to start a direct PhD at the University of Toronto supervised by Prof. [Timothy C. Y. Chan](https://chan.mie.utoronto.ca/)! See you in Canada!
 
 - **September 2023:** 🏆 I've received a national award from [SBMAC](https://www.sbmac.org.br/premio-iniciacao-cientifica/) for the 2nd-best undergrad research project in applied math!
 
-- **August 2023:** 🎙️ I've scored 29/30 in TOEFL speaking section and 107/120 overall!!
+- **August 2023:** 🎙️ I've scored 29/30 in TOEFL speaking section and 107/120 overall!
 
 - **June 2023:** 🏆 For the second time, my institute has recognized me for the best undergrad research project!
 
