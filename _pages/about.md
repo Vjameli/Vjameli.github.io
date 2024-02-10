@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+a
 
 - I am a 23-year-old undergraduate finishing my major in applied mathematics at [IMECC](https://www.ime.unicamp.br) - [Unicamp](https://www.unicamp.br/unicamp/)
 - My research interests include optimization, operation research, matrix computations, and radiotherapy planning.
