@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 
-- I am a 23-year-old undergraduate finishing my major in applied mathematics at [IMECC](https://www.ime.unicamp.br) - [Unicamp](https://www.unicamp.br/unicamp/)
-- My research interests include optimization, operation research, matrix computations, and radiotherapy planning.
+- I am PhD student in Operations Research at the [University of Toronto](https://www.utoronto.ca/) supervised by [Professor Timothy C.Y. Chan](https://chan.mie.utoronto.ca/).
+- My research interests include optimization, matrix computations, and radiotherapy planning.
 - Currently, I endeavor to improve and automate treatment planning for external beam radiotherapy.
 To quote Sebastiaan Breedveld:
 
