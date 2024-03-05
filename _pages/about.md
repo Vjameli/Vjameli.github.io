@@ -44,10 +44,8 @@ To quote Sebastiaan Breedveld:
 
 <br>
 
-<!---
 <div style="text-align: center;">
   Accesses to this website in the last thirty days:
 </div>
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=jly5PbL24qrN6G0jQChKIjqNHiRrn7DuWSqT36LFAVA'></script>
--->
