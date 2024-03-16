@@ -4,7 +4,8 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-Institute of Mathematics, Statistics and Scientific Computing, Unicamp<br>
-Campinas, São Paulo - Brazil<br>
+Department of Mechanical & Industrial Engineering<br>
+University of Toronto<br>
+5 King's College Road<br>
+Toronto, Ontario • M5S 3G8 • Canada<br>
 Academic email: vinicius [dot] jameli [at] mail [dot] utoronto [dot] ca<br>
-Personal email: vjameli [at] gmail [dot] com
