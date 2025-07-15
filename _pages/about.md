@@ -10,19 +10,18 @@ redirect_from:
 
 
 - I am PhD student in Operations Research at the [University of Toronto](https://www.utoronto.ca/) supervised by Prof. [Timothy C.Y. Chan](https://chan.mie.utoronto.ca/).
-- My research interests include optimization, matrix computations, and radiotherapy planning.
-- Currently, I endeavor to improve and automate treatment planning for external beam radiotherapy.
-To quote Sebastiaan Breedveld:
+- My interests are in theoretical aspects of mathematical optimization and its applications in healthcare.
+- In the past, I have worked on improving and automating treatment planning for external beam radiotherapy.
+- Currently, I am studying the magnet design problem. The goal is to generalize the theory of magnet design 
+to accomodate arbitrarily complex magnetic fields. This way, magnets for MRI-LINACS systems can be designed
+optimally for the first time.
 
-<div style="text-align: center;">
-  <q> <i>Each patient should receive the best treatment technically possible: not the best we could achieve.</i></q>
-</div>
 
 <br>
 
 # **News**
 
-- **December 2023:** 📚 I'm going to start a direct PhD at the University of Toronto supervised by Prof. [Timothy C. Y. Chan](https://chan.mie.utoronto.ca/)! See you in Canada!
+- **December 2023:** 📚 I'm going to start a direct entry PhD at the University of Toronto supervised by Prof. [Timothy C. Y. Chan](https://chan.mie.utoronto.ca/)! See you in Canada!
 
 - **September 2023:** 🏆 I've received a national award from [SBMAC](https://www.sbmac.org.br/premio-iniciacao-cientifica/) for the 2nd-best undergrad research project in applied math!
 
