@@ -10,11 +10,10 @@ redirect_from:
 
 
 - I am PhD student in Operations Research at the [University of Toronto](https://www.utoronto.ca/) supervised by Prof. [Timothy C.Y. Chan](https://chan.mie.utoronto.ca/).
-- My interests are in theoretical aspects of mathematical optimization and its applications in healthcare.
+- My interests lie in the theoretical aspects of mathematical optimization and its applications in healthcare.
 - In the past, I have worked on improving and automating treatment planning for external beam radiotherapy.
-- Currently, I am studying the magnet design problem. The goal is to generalize the theory of magnet design 
-to accomodate arbitrarily complex magnetic fields. This way, magnets for MRI-LINACS systems can be designed
-optimally for the first time.
+- Currently, I am studying the magnet design problem. The goal is to generalize the theory of magnet design to accommodate arbitrarily complex magnetic fields. This way, magnets for MRI-LINACS systems can be designed optimally for the first time.
+
 
 
 <br>
