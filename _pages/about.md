@@ -36,12 +36,6 @@ redirect_from:
 
 <br>
 
-<br>
-
-<br>
-
-<br>
-
 <a href="https://www.flagcounter.me/details/f4X"><img src="https://www.flagcounter.me/f4X/" alt="Flag Counter"></a>
 
 <!---
