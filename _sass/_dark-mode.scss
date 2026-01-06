@@ -1,0 +1,165 @@
+/* ==========================================================================
+   Dark Mode Styles
+   ========================================================================== */
+
+[data-theme="dark"] {
+  // Base colors
+  background-color: $dark-background-color;
+  color: $dark-text-color;
+
+  // Body and main content
+  body {
+    background-color: $dark-body-color;
+    color: $dark-text-color;
+  }
+
+  // Links
+  a {
+    color: $dark-link-color;
+
+    &:visited {
+      color: $dark-link-color-visited;
+    }
+
+    &:hover {
+      color: $dark-link-color-hover;
+    }
+  }
+
+  // Code blocks
+  code {
+    background-color: $dark-code-background-color;
+    color: $dark-text-color;
+  }
+
+  pre {
+    background-color: $dark-code-background-color;
+  }
+
+  // Borders
+  .masthead,
+  .page__footer {
+    border-color: $dark-border-color;
+  }
+
+  // Navigation
+  .greedy-nav {
+    background: $dark-background-color;
+
+    a {
+      color: $dark-text-color;
+
+      &:hover {
+        color: $dark-link-color;
+      }
+    }
+
+    button {
+      background-color: transparent;
+      color: $dark-text-color;
+
+      &:hover {
+        background-color: $dark-light-gray;
+      }
+    }
+  }
+
+  .hidden-links {
+    background: $dark-light-gray;
+    border-color: $dark-border-color;
+
+    a {
+      color: $dark-text-color;
+
+      &:hover {
+        background: $dark-lighter-gray;
+      }
+    }
+  }
+
+  // Sidebar and author profile
+  .sidebar {
+    background-color: $dark-background-color;
+
+    a {
+      color: $dark-link-color;
+    }
+  }
+
+  .author__avatar img {
+    border-color: $dark-border-color;
+  }
+
+  // Buttons
+  .btn {
+    background-color: $dark-primary-color;
+    color: $dark-text-color;
+
+    &:hover {
+      background-color: lighten($dark-primary-color, 10%);
+    }
+  }
+
+  .btn--inverse {
+    background-color: $dark-light-gray;
+    color: $dark-text-color;
+  }
+
+  // Page content
+  .page__content {
+    background-color: $dark-background-color;
+  }
+
+  // Archive items
+  .archive__item {
+    background-color: $dark-background-color;
+    border-color: $dark-border-color;
+  }
+
+  // Tables
+  table {
+    background-color: $dark-background-color;
+    border-color: $dark-border-color;
+
+    th, td {
+      border-color: $dark-border-color;
+    }
+
+    thead {
+      background-color: $dark-light-gray;
+    }
+
+    tbody tr:nth-child(even) {
+      background-color: $dark-lighter-gray;
+    }
+  }
+
+  // Forms
+  input,
+  textarea,
+  select {
+    background-color: $dark-light-gray;
+    color: $dark-text-color;
+    border-color: $dark-border-color;
+
+    &:focus {
+      border-color: $dark-link-color;
+    }
+  }
+
+  // Notices
+  .notice {
+    background-color: $dark-light-gray;
+    border-color: $dark-border-color;
+  }
+
+  // Footer
+  .page__footer {
+    background-color: $dark-lighter-gray;
+    color: $dark-muted-text-color;
+
+    a {
+      color: $dark-link-color;
+    }
+  }
+}
