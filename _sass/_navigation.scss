@@ -189,7 +189,7 @@
     }
   }
 
-  button:not(.theme-toggle) {
+  button {
     position: absolute;
     height: 100%;
     right: 0;
@@ -305,71 +305,6 @@
         border-bottom: none;
       }
     }
-  }
-}
-
-
-/*
-   Theme toggle button
-   ========================================================================== */
-
-.theme-toggle {
-  position: relative;
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  vertical-align: middle;
-  width: 40px;
-  height: 40px;
-  margin-left: 10px;
-  padding: 8px;
-  background: transparent;
-  border: 1px solid $border-color;
-  border-radius: 4px;
-  cursor: pointer;
-  transition: all 0.3s ease;
-
-  &:hover {
-    background-color: $lighter-gray;
-    border-color: $primary-color;
-  }
-
-  // Dark mode hover state
-  [data-theme="dark"] & {
-    border-color: $dark-border-color;
-
-    &:hover {
-      background-color: $dark-light-gray;
-      border-color: $dark-link-color;
-    }
-  }
-}
-
-.theme-toggle__icon {
-  width: 20px;
-  height: 20px;
-  color: $text-color;
-  transition: all 0.3s ease;
-
-  [data-theme="dark"] & {
-    color: $dark-text-color;
-  }
-}
-
-// Show sun icon in light mode, moon in dark mode
-.theme-toggle__icon--sun {
-  display: block;
-
-  [data-theme="dark"] & {
-    display: none;
-  }
-}
-
-.theme-toggle__icon--moon {
-  display: none;
-
-  [data-theme="dark"] & {
-    display: block;
   }
 }
 
