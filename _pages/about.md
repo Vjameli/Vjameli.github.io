@@ -15,27 +15,13 @@ redirect_from:
 - Currently, I am interested in two very distinct problems: magnet design and 2D polygon packing!
 - The first involves generalizing the theory of magnet design to accommodate arbitrarily complex magnetic fields.
 This way, magnets for MRI-LINACS systems can be designed optimally for the first time.
-- In the second (still a work in progress), I am formulating the 2D polygon packing problem as an optimization model to provide certificates of optimality for arbitrary packings.
-[Erich Friedman's page](https://erich-friedman.github.io/packing/index.html) has many examples of such packings - go check it out!
+- In the second (still a work in progress), I am formulating the 2D polygon packing problem as an optimization model to
+provide certificates of optimality for arbitrary packings.
+[Erich Friedman's page](https://erich-friedman.github.io/packing/index.html) has many examples of such packings (including the famous Square Packing)- go check it out!
 
 
 <br>
 
-# **News**
-
-- **December 2023:** 📚 I'm going to start a direct entry PhD at the University of Toronto supervised by Prof. [Timothy C. Y. Chan](https://chan.mie.utoronto.ca/)! See you in Canada!
-
-- **September 2023:** 🏆 I've received a national award from [SBMAC](https://www.sbmac.org.br/premio-iniciacao-cientifica/) for the 2nd-best undergrad research project in applied math!
-
-- **August 2023:** 🎙️ I've scored 29/30 in TOEFL speaking section and 107/120 overall!
-
-- **June 2023:** 🏆 For the second time, my institute has recognized me for the best undergrad research project!
-
-- **August 2022:** ✈️ Presenting at the UNESP's Optimization Workshop in Botucatu soon!
-
-- **July 2022:** ✈️ Presenting at the EURO conference soon! See you in Finland!
-
-- **April 2022:** ✈️ Presenting at the EncBioMat meeting in Rio.
 
 <br>
 
