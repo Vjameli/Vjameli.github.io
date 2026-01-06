@@ -9,17 +9,15 @@ redirect_from:
 ---
 
 
- I am PhD student in Operations Research at the [University of Toronto](https://www.utoronto.ca/) supervised by Prof. [Timothy C.Y. Chan](https://chan.mie.utoronto.ca/).
- 
- My interests lie in both methodological aspects of mathematical optimization and its applications in healthcare.
+I am PhD student in Operations Research at the [University of Toronto](https://www.utoronto.ca/) supervised by Prof. [Timothy C.Y. Chan](https://chan.mie.utoronto.ca/).
+My interests lie in both methodological aspects of mathematical optimization and its applications in healthcare.
 
- In the past, I have worked on improving and automating treatment planning for external beam radiotherapy.
+In the past, I have worked on improving and automating treatment planning for external beam radiotherapy.
+Currently, I am interested in two very distinct problems: magnet design and 2D polygon packing!
 
- Currently, I am interested in two very distinct problems: magnet design and 2D polygon packing!
-
- The first involves generalizing the theory of magnet design to accommodate arbitrarily complex magnetic fields.
+The first involves generalizing the theory of magnet design to accommodate arbitrarily complex magnetic fields.
 This way, magnets for MRI-LINACS systems can be designed optimally for the first time.
- In the second (still a work in progress), I am formulating the 2D polygon packing problem as an optimization model to
+In the second (still a work in progress), I am formulating the 2D polygon packing problem as an optimization model to
 provide certificates of optimality for arbitrary packings.
 [Erich Friedman's page](https://erich-friedman.github.io/packing/index.html) has many examples of such packings (including the famous Square Packing)- go check it out!
 
