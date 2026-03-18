@@ -4,7 +4,7 @@ title: "Work Ethics"
 permalink: /work-ethics/
 author_profile: true
 ---
-Ironically, it is not trivial to find uninterrupted time to do math consistently while doing a PhD in applied mathematics.
+Ironically, it is not trivial to find uninterrupted time to do math consistently while doing a PhD in operations research.
 It is easy to spend an entire month coding and writing without having to pick up a pencil even once!
 
 **I want to become a better mathematician**, so I decided to protect some time each day to do a little math!
@@ -19,7 +19,7 @@ In the near future, I also plan to update this page with the specific materials 
 
 The first page of each report contains a short description of how the hours are being counted, followed by the goals for each period.
 
-Goal for 01/2026–03/2026:
-[Testing](https://Vjameli.github.io/files/TogglTrack_Report_Summary_report_%28from_01_01_2025_to_12_31_2025%29.pdf)
+01/2026–02/2026: Getting started!
+[Report](https://Vjameli.github.io/files/report_jan_feb_2026.pdf)
 
 Goal for 04/2026–08/2026: Study probability! (at least 30 min per day)
