@@ -17,10 +17,11 @@ In the past, I have worked on improving and automating treatment planning for ex
 Currently, I am interested in two very distinct problems: magnet design and 2D polygon packing!
 
 The first involves generalizing the theory of magnet design to accommodate arbitrarily complex magnetic fields.
-This way, magnets for MRI-LINACS systems can be designed optimally for the first time.
-In the second (still a work in progress), I am formulating the 2D polygon packing problem as an optimization model to
-provide certificates of optimality for arbitrary packings.
-[Erich Friedman's page](https://erich-friedman.github.io/packing/index.html) has many examples of such packings (including the famous Square Packing)- go check it out!
+This would make it possible, for the first time, to design magnets optimally for MRI-LINAC systems.
+In the second project, which is still a work in progress, I am working on generalizing optimal polygon packing to concave polygons and to different polygons in the same container.
+I am also trying to improve the tractability of this non-convex problem in order to prove the optimality of famous packings!
+
+[Erich Friedman's page](https://erich-friedman.github.io/packing/index.html) contains many examples of packings, including the well-known Square Packing—take a look!
 
 
 <br>
