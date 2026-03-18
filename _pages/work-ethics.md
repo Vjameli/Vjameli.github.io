@@ -21,5 +21,3 @@ The first page of each report contains a short description of how the hours are 
 
 01/2026–02/2026: Getting started!
 [Report](https://Vjameli.github.io/files/report_jan_feb_2026.pdf)
-
-Goal for 04/2026–08/2026: Study probability! (at least 30 min per day)
