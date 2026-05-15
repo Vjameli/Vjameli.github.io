@@ -3,6 +3,7 @@ layout: archive
 title: "Work Ethics"
 permalink: /work-ethics/
 author_profile: true
+published: false
 ---
 Ironically, it is not trivial to find uninterrupted time to do math consistently while doing a PhD in operations research.
 It is easy to spend an entire month coding and writing without having to pick up a pencil even once!
