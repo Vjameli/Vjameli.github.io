@@ -44,7 +44,7 @@ This website is built using Jekyll, a static site generator that transforms plai
 #### `_pages/`
 Contains standalone pages that make up the main navigation of the website:
 
-- **`about.md`**: About/homepage content
+- **`about.md`**: About/homepage content covering undergraduate radiotherapy work, early PhD projects in magnet design and computational geometry, and future interests in inverse optimization, robust optimization, and Markov decision processes
 - **`cv.md`**: Curriculum Vitae page
 - **`research.md`**: Working Papers page listing two projects and their coauthors
 - **`contact.md`**: Contact information page
