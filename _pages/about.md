@@ -23,8 +23,7 @@ This solves the fundamental problem of integrating the MRI and the LINAC togethe
 
 I also study how geometric intersection graphs can be used to strengthen set-packing constraints.
 These graphs appear in many classical problems in Operations Research—including magnet design.
-But the literature has only studied intersection graphs that can be decomposed into intervals (intervals, rectangles, and boxes)
-to strengthen set-packing constraints. What about more weird shapes?
+But the literature has been mostly ignoring the geometrical counterpart of such graphs. What properties can we derive from them?
 
 Looking ahead to the rest of my PhD, I will be exploring the connections between inverse optimization, robust optimization, and MDPs.
 
