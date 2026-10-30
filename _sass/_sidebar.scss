@@ -170,6 +170,7 @@
   z-index: -1;
   box-shadow: 0 0 10px rgba(#000, 0.25);
   cursor: default;
+  white-space: nowrap;
 
   @include breakpoint($large) {
     display: block;
@@ -216,23 +217,27 @@
   }
 
   li {
+    display: inline-block;
+    margin: 0;
     font-size: $type-size-5;
+    vertical-align: middle;
     white-space: nowrap;
   }
 
   a {
-    display: block;
-    margin-bottom: 5px;
-    padding-right: 5px;
-    padding-top: 2px;
-    padding-bottom: 2px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 44px;
+    height: 44px;
+    margin: 0;
+    padding: 0;
     color: inherit;
     font-size: 1.1rem;
     text-decoration: none;
 
     i {
       font-size: 1.2em;
-      vertical-align: -0.1em;
     }
 
     &:hover {

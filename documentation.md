@@ -302,7 +302,7 @@ Edit `_config.yml` to update:
 Edit `_data/navigation.yml` to modify the main menu
 
 ### Author Profile
-Update the `author` section in `_config.yml`. The profile sidebar displays only LinkedIn, GitHub, and Google Scholar; location, ResearchGate, and ORCID are unset. Profile links use `1.1rem` text with icons at `1.2em` in the `.author__urls a` rule in `_sass/_sidebar.scss` (about 20px text and 24px icons on desktop).
+Update the `author` section in `_config.yml`. The profile sidebar displays only LinkedIn, GitHub, and Google Scholar; location, ResearchGate, and ORCID are unset. The profile links show only icons in one horizontal row, ordered LinkedIn, GitHub, then Google Scholar. Each link retains an accessible name and hover title in `_includes/author-profile.html`. The `.author__urls` rules in `_sass/_sidebar.scss` provide approximately 24px desktop icons centered in 44px link targets, including in the mobile Follow menu.
 
 ### Styling
 Customize colors and fonts in `_sass/_variables.scss`
