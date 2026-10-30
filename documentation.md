@@ -46,8 +46,7 @@ Contains standalone pages that make up the main navigation of the website:
 
 - **`about.md`**: About/homepage content
 - **`cv.md`**: Curriculum Vitae page
-- **`publications.md`**: Publications listing page
-- **`research.md`**: Research overview page
+- **`research.md`**: Working Papers page listing two projects and their coauthors
 - **`contact.md`**: Contact information page
 - **`talks.html`**: Talks and presentations page
 - **`talkmap.html`**: Geographic visualization of talks
@@ -63,6 +62,11 @@ Archive pages:
 - **`tag-archive.html`**
 - **`year-archive.html`**
 - **`non-menu-page.md`**: Example page not in main navigation
+
+#### `_archive/`
+Source backups excluded from the published site in `_config.yml`:
+
+- **`research-radiotherapy-2026-10-30.md`**: Exact copy of the original radiotherapy Research page, saved before replacing it with Working Papers. Its referenced images remain in `images/`.
 
 #### `_posts/`
 Contains blog posts in markdown format. Posts follow Jekyll naming convention: `YYYY-MM-DD-title.md`
@@ -264,10 +268,11 @@ The `markdown_generator/` directory contains tools to batch-generate content:
 
 The main navigation is defined in `_data/navigation.yml` and includes:
 
-- Research
-- Publications
+- Research (Working Papers)
 - CV
 - Contact
+
+The standalone Publications page has been removed. The radiotherapy Research page is preserved in `_archive/`.
 
 ## Building and Deployment
 
