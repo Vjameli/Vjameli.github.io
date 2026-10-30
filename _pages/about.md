@@ -26,7 +26,7 @@ These graphs appear in many classical problems in Operations Research—includin
 But the literature has only studied intersection graphs that can be decomposed into intervals (intervals, rectangles, and boxes)
 to strengthen set-packing constraints. What about more weird shapes?
 
-Looking ahead to the rest of my PhD, I am interested in exploring the connections between inverse optimization, robust optimization, and MDPs.
+Looking ahead to the rest of my PhD, I will be exploring the connections between inverse optimization, robust optimization, and MDPs.
 
 <a href="https://www.flagcounter.me/details/f4X"><img src="https://www.flagcounter.me/f4X/" alt="Flag Counter"></a>
 
