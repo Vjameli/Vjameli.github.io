@@ -83,12 +83,12 @@ author:
   name             : "Vinicius Jameli"
   avatar           : "profile_picture.jpg"
   bio              : ""
-  location         : "Toronto - Canada"
+  location         :
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.br/citations?user=hEnX4vUAAAAJ&hl=en-US"
   email            : 
-  researchgate     : "https://www.researchgate.net/profile/Vinicius-Jameli"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   impactstory      : 
   lastfm           :
   linkedin         : "jameli"
-  orcid            : "https://orcid.org/0000-0002-9962-8273"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : 
