@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-1. **Set-Packing Constraints of Geometric Conflict Graphs**<br>
+1. **On Set-Packing Constraints of Geometric Conflict Graphs**<br>
    with Timothy Chan<br>
    Work in progress
 
