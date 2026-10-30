@@ -19,8 +19,7 @@ In the first part of my PhD, I have focused on two seemingly distinct areas that
 
 Working with Prof. [Teodor Stanescu](https://radonc.utoronto.ca/faculty/teodor-stanescu) at the Princess Margaret Cancer Centre,
 I aim to generalize the theory of optimal magnet design to accommodate arbitrarily complex external magnetic fields.
-This would make it possible, for the first time, to design magnets optimally for MRI-LINAC systems and provide the foundation 
-for a proof-of-concept of a new MRI-LINAC design.
+This would address a fundamental challenge in MRI-LINAC integration, enabling more flexible designs for better radiotherapy planning.
 
 I also study how geometric intersection graphs can be used to strengthen set-packing constraints.
 These graphs appear in many classical problems in Operations Research—including magnet design.
