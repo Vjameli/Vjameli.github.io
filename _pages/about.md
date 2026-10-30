@@ -22,13 +22,9 @@ This would make it possible, for the first time, to design magnets optimally for
 for a proof-of-concept of a new MRI-LINAC design.
 
 My second project involves strengthening set-packing constraints from geometric intersection graphs.
-These graphs appear in many classical problems in Operations Research—including magnet design—but the literature has only studied interval
-intersection graphs to strengthen set-packing constraints. What about rectangles, disks, and more weird shapes?
-
-As a side project, I am working on generalizing optimal polygon packing to concave polygons and to different polygons in the same container.
-I am also trying to improve the tractability of this non-convex problem in order to prove the optimality of famous packings!
-
-[Erich Friedman's page](https://erich-friedman.github.io/packing/index.html) contains many examples of packings, including the well-known Square Packing—take a look!
+These graphs appear in many classical problems in Operations Research—including magnet design.
+But the literature has only studied intersection graphs that can be decomposed into intervals (intervals, rectangles, and boxes)
+to strengthen set-packing constraints. What about more weird shapes?
 
 
 <br>
