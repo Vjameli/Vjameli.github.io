@@ -227,8 +227,13 @@
     padding-top: 2px;
     padding-bottom: 2px;
     color: inherit;
-    font-size: $type-size-5;
+    font-size: 1.1rem;
     text-decoration: none;
+
+    i {
+      font-size: 1.2em;
+      vertical-align: -0.1em;
+    }
 
     &:hover {
       text-decoration: underline;
