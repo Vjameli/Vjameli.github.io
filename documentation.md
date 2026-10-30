@@ -110,7 +110,7 @@ Reusable HTML components that can be included in layouts:
 **Main Components:**
 - **`head.html`**: HTML head section with meta tags
 - **`head/custom.html`**: Custom head additions
-- **`masthead.html`**: Site header/navigation bar
+- **`masthead.html`**: Site header/navigation bar, with a Home link pointing to the homepage
 - **`author-profile.html`**: Author bio sidebar
 - **`seo.html`**: SEO meta tags
 - **`scripts.html`**: JavaScript includes
@@ -302,7 +302,7 @@ Edit `_config.yml` to update:
 Edit `_data/navigation.yml` to modify the main menu
 
 ### Author Profile
-Update the `author` section in `_config.yml`. The profile sidebar displays only LinkedIn, GitHub, and Google Scholar; location, ResearchGate, and ORCID are unset. The profile links show only icons in one horizontal row, ordered LinkedIn, GitHub, then Google Scholar. Each link retains an accessible name and hover title in `_includes/author-profile.html`. The `.author__urls` rules in `_sass/_sidebar.scss` provide approximately 24px desktop icons centered in 44px link targets, including in the mobile Follow menu.
+Update the `author` section in `_config.yml`. The profile sidebar displays only LinkedIn, GitHub, and Google Scholar; location, ResearchGate, and ORCID are unset. The profile links show only icons in one horizontal row, ordered LinkedIn, GitHub, then Google Scholar. Each link retains an accessible name and hover title in `_includes/author-profile.html`. The `.author__urls` rules in `_sass/_sidebar.scss` provide approximately 24px desktop icons centered in 44px link targets, including in the mobile Follow menu. The name below the photo uses `1.4rem` text (about 25px on desktop). The main stylesheet URL in `_includes/head.html` includes the build timestamp so new deployments refresh cached styling.
 
 ### Styling
 Customize colors and fonts in `_sass/_variables.scss`
