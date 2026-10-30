@@ -17,7 +17,7 @@ During my undergraduate, I worked on improving and automating treatment planning
 
 In the first part of my PhD, I have focused on two seemingly distinct areas that are surprisingly connected: magnet design and computational geometry.
 
-Working with Prof. [Teodor Stanescu](https://radonc.utoronto.ca/faculty/teodor-stanescu) at the Princess Margaret Cancer Centre,
+Working with Prof. [Teodor Stanescu](https://radonc.utoronto.ca/faculty/teodor-stanescu) at the [Princess Margaret Cancer Centre](https://www.uhn.ca/PrincessMargaret),
 I aim to generalize the theory of optimal magnet design to accommodate arbitrarily complex external magnetic fields.
 This solves the fundamental problem of integrating the MRI and the LINAC together, enabling more flexible designs of MRI-LINACs for better radiotherapy planning.
 
