@@ -9,6 +9,6 @@ author_profile: true
    with Timothy Chan<br>
    To be submitted to: *Operations Research*
 
-2. **Robust Magnet Design under Asymmetric Magnetic Fields**<br>
+2. **Magnet Design Under Asymmetric Magnetic Fields**<br>
    with Timothy Chan and Teodor Stanescu<br>
    To be submitted to: *INFORMS Journal on Computing*
